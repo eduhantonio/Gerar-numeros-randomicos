@@ -1,0 +1,7 @@
+C:\Users\aluno_lab4\Desktop\Eduvasco\Randomicos\Randomicos\bin\Debug\Randomicos.exe.config
+C:\Users\aluno_lab4\Desktop\Eduvasco\Randomicos\Randomicos\bin\Debug\Randomicos.exe
+C:\Users\aluno_lab4\Desktop\Eduvasco\Randomicos\Randomicos\bin\Debug\Randomicos.pdb
+C:\Users\aluno_lab4\Desktop\Eduvasco\Randomicos\Randomicos\obj\Debug\Randomicos.csproj.AssemblyReference.cache
+C:\Users\aluno_lab4\Desktop\Eduvasco\Randomicos\Randomicos\obj\Debug\Randomicos.csproj.CoreCompileInputs.cache
+C:\Users\aluno_lab4\Desktop\Eduvasco\Randomicos\Randomicos\obj\Debug\Randomicos.exe
+C:\Users\aluno_lab4\Desktop\Eduvasco\Randomicos\Randomicos\obj\Debug\Randomicos.pdb
